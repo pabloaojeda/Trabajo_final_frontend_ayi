@@ -394,17 +394,17 @@ ul#horizontal-list li {
   left: 10vw;
 }
 
-A:link {
+.footer-ayi A:link {
   text-decoration: none;
 }
 
-A:visited {
+.footer-ayi A:visited {
   color: black;
   font-family: arial;
   text-decoration: none;
 }
 
-A:hover {
+.footer-ayi A:hover {
   color: black;
   font-family: arial;
   text-decoration: none;
